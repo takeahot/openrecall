@@ -1,3 +1,7 @@
+I encountered a problem: when I closed the lid, the screen recorder stopped. I made a fork on GitHub. Now, if I close and open the lid again, the screen recorder restarts. I started OpenRecall and forgot about it until it was time to make the report."  https://github.com/takeahot/openrecall
+
+
+
 ```
    ____                   ____                  ____   
   / __ \____  ___  ____  / __ \___  _________ _/ / /   
